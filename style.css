@@ -1,0 +1,16 @@
+body, html { 
+    background-color: rgb(208, 156, 243);
+}
+
+h6 {
+    color: red;
+    font-size: 50px;
+}
+
+.blurb {
+    color: grey;
+}
+.main{
+    padding-left: 10vw;
+    padding-top: 35vh;
+}
